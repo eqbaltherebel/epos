@@ -1,0 +1,6 @@
+{
+  "/Epos_Spring": { "target": "http://localhost:3101", "secure": false, "changeOrigin": true },
+  "/images": { "target": "http://localhost:3101", "secure": false, "changeOrigin": true },
+  "/awards": { "target": "http://localhost:3101", "secure": false, "changeOrigin": true },
+  "/static/media": { "target": "http://localhost:3101", "secure": false, "changeOrigin": true }
+}

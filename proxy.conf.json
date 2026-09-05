@@ -1,0 +1,30 @@
+{
+  "/Epos_Spring": {
+    "target": "https://epos.bihar.gov.in",
+    "secure": true,
+    "changeOrigin": true,
+    "headers": {
+      "Origin": "https://epos.bihar.gov.in",
+      "Referer": "https://epos.bihar.gov.in/"
+    },
+    "logLevel": "debug"
+  },
+  "/images": {
+    "target": "https://epos.bihar.gov.in",
+    "secure": true,
+    "changeOrigin": true,
+    "headers": { "Referer": "https://epos.bihar.gov.in/" }
+  },
+  "/awards": {
+    "target": "https://epos.bihar.gov.in",
+    "secure": true,
+    "changeOrigin": true,
+    "headers": { "Referer": "https://epos.bihar.gov.in/" }
+  },
+  "/static/media": {
+    "target": "https://epos.bihar.gov.in",
+    "secure": true,
+    "changeOrigin": true,
+    "headers": { "Referer": "https://epos.bihar.gov.in/" }
+  }
+}
