@@ -142,3 +142,5 @@ A HAR contains every request's full URL, headers, **payload**, and **response bo
 enough to reproduce production exactly. Alternatively, **Copy as cURL** for
 `DetailedTrans/office`, `DetailedTrans/fps`, and `DetailedTrans/Rc` (same as the
 `details` cURL already provided) is enough to finish the drill-down precisely.
+
+By Rahil Eqbal
